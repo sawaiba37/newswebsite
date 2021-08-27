@@ -1,0 +1,27 @@
+
+
+
+<html>
+<head>
+<title>web</title>
+<style>
+body{
+ background-color: #ffcce6;
+}
+button{
+  width:180px;
+  height:50px;
+}
+</style>
+</head>
+<body>
+<center>
+<h2>2. austria </h2>
+<image src="Austria.jpg" width="500px">
+<p>Austria is a gorgeous little country that offers plenty of mountain fun in the form of the snow-capped Alps, which actually cover 62% of the country. Its location is ideal for exploration of many other European countries, as well. The lifestyle in Austria is called “perpetual resort,” which sounds pretty fine to us.</p>
+</center>
+<center>
+<button><a href="next1.html">previous</a></button>
+</center>
+</body>
+</html>

@@ -1,0 +1,29 @@
+
+<html>
+<head>
+<title>web</title>
+<style>
+body{
+ background-color: #ffcce6;
+}
+button{
+  width:180px;
+  height:50px;
+}
+</style>
+</head>
+<body>
+<center>
+<h2>1. canada </h2>
+<image src="canada.jpg" width="500px">
+<p>Canada, eh? It’s one of the friendliest countries on earth. And while you might not think of Canada as beachy, it actually has the longest coastline in the world at 202,080 km. Canada has compassionately opened its borders to refugees from war-torn nations, but if you are not in fear for your life, you will have to show some professional skills
+</p>
+
+
+</center>
+<center>
+<button><a href="10.html">previous</a></button>
+
+<button><a href="next2.html">Next</a></button></center>
+</body>
+</html>

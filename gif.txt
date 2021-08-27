@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>web</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+ 
+$(document).ready(function(){
+  $("button").click(function(){
+    $("h3").toggle();
+  });
+});
+
+</script> 
+<style>
+button{
+    	background-color:#b3d9ff;
+}
+</style>
+</head>
+<body>
+<image src="khadi.jpg" width="1550px" height="300px">
+<table align="center">
+<tr><td><h2>KHADI</h2></td></tr>
+</table>
+<image src="dd.jpg" width="180px"> <image src="ddm.jpg"> <image src="down.jpg"> <image src="khad.jpg"><image src="download.jpg"><image src="dp.jpg"><image src="eid.jpg">
+<center>
+<button>book now</button>
+<h3>khadi brings exclusive styles for you<br>book it now</h3>
+</center>
+</body>
+</html>
+

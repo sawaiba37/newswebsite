@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>web</title>
+<style>
+body{
+ background-color: #ffcce6;
+}
+button{
+  width:180px;
+  height:50px;
+}
+</style>
+</head>
+<body>
+<center>
+<h3>3 easiest country for immigration</h3>
+<image src="10.jpg" width="500px">
+<p>When things get tense at home, or even just super boring, you may start thinking about running away and living the life of an adventurous ex-patriot. But when the complexities and expenses associated with migration hit you, it’s easy to become discouraged and put the dream away. Don’t do it! We have a list of ten countries with relatively easy pathways to permanent residency.
+
+</p>
+
+
+</center>
+<center>
+<button><a href="next1.html">Next</a></button></center>
+</body>
+</html>

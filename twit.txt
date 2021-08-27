@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>web</title>
+</head>
+<body>
+<center>
+<table>
+<form>
+<tr><image src="twitter.png" width="50px">
+<tr><td>Email</td>
+<td><input type="email" name="email"></td>
+<tr><td>Password</td>
+<td><input type="password" name="password"></td>
+</tr>
+<tr><td><button>sign in</button></td></tr>
+</form>
+</table>
+</center>
+</body>
+</html>

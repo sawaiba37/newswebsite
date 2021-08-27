@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>fb</title>
+<stle>
+
+</style>
+</head>
+<body>
+<center>
+
+<image src="fb-era.jpg" width="1300px" height="200px">
+<p>welcome to your account</p>
+</center>
+<form>
+<table align="center">
+<tr><td>email id</td>
+<td><input type="email" name="email id"></td>
+<tr><td>password</td>
+<td><input type="password" name="password"></td>
+</tr>
+</table>
+</form>
+</body>
+</html>

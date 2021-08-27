@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>web</title>
+<style>
+body{
+   background-color: #ffffcc;
+}
+button{
+     background-color:  #d6e0f5;
+     height:50px;
+    width:180px;
+}
+</style>
+</head>
+<body>
+<center>
+<h3>2. A YOUNG INDIAN GIRL SHOWS HER GORGEOUS EYES. FOR THESE BEAUTIFUL EYES, SHE’S BEEN THOUGHT TO BE A WITCH IN A NATIVE VILLAGE.</h3>
+<image src="girl.jpg" width="500px">
+</center>
+<center>
+<button><a href="eye.html">click to previous</a></button>
+</center>
+</body>
+</html>

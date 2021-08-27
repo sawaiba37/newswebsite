@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>web</title>
+</head>
+<body>
+<center>
+<table>
+<form>
+<tr> <image src="insta.jpg" width="50px" align="center">
+<tr><td>Email</td>
+<td><input type="Email" name="email"></td>
+<tr><td>Password</td>
+<td><input type="password" name="password"></td>
+<tr><td>Re-type Password</td>
+<td><input type="password" name="Re-type Password"></td>
+</tr>
+<tr><td><button><iput type="button">sign in</button>    <button>change password</button></td>
+</tr>
+</form>
+</table>
+</center>
+</body>
+</html>

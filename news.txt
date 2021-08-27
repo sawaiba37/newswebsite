@@ -1,0 +1,35 @@
+
+
+<html>
+<head>
+<title>news</title>
+<style>
+body {background-color: pink;}
+</style>
+</head>
+  <right>
+
+<figcaption><b><font color="purple"><center>The Air plane; Air Niugini plane comes down in Micronesia lagoon:</center></font></b></figcaption><hr>
+
+<p><img src="incident.jpg" width="180px" image align="left">The Air Niugini plane from Papua New Guinea was seen sitting in shallow water just off the coast.<br>
+Locals responded by approaching the plane in small vessels to help rescue the 36 passengers and 11 crew<br>A hospital official told Reuters that four passengers were in a serious condition after the crash.<br>The aircraft was flying from the island of Pohnpei in Micronesia to Port Moresby, the capital of Papua New Guinea, stopping at Micronesia's Weno island on the way.<br>Passenger Bill Jaynes told reporters that the incident had been "surreal"</p><hr>
+
+<figcaption><b><font color="purple"><center>Imran Khan's third wedding memes will tickle your funny bone:</center></font></b></figcaption><hr>
+
+<p><img src="imrankhan.jpg" width="180px" image align="left">Social media exploded with jokes and memes when Pakistan Tehreek-e-Insaf (PTI) and former cricketer Imran Khan on Sunday announced his third marriage with Bushra Maneka.<br>Hours after the PTI officially confirmed the 65-year-old's marriage, the hashtag #MubarakImranKhan was trending on Twitter<br>Many people took to the micro-blogging site to write witty and humorous messages on Imran's third marriage.<br>A two-member bench, led by Minallah, suspended the jail sentences while hearing the Sharifs' appeal against their convictions.
+
+Their convictions will stand, although their sentences have been suspended. </p><hr> 
+
+<figcaption><b><font color="purple"><center>Pakistan court releases Ex-prime minister; nawaz sharif and his daughter maryam nawaz:</center></font></b></figcaption><hr>
+
+<p><img src="hum-log-samaa-tv-02-august-2018.jpg" width="180px" image align="left">Sharif, his daughter Maryam, and son-in-law Muhammad Safdar were convicted in July by an anti-corruption court<br>Former prime minister Nawaz Sharif and two family members were released from prison on Wednesday after being found guilty of corruption earlier this year.<br>After his release, Sharif flew to his family home in Lahore and was greeted by jubilant supporters at the airport. <br>Pakistan's anti-corruption watchdog, was unable to prove a financial link between the former prime minister and the apartments in question<br>A two-member bench, led by Minallah, suspended the jail sentences while hearing the Sharifs' appeal against their convictions.
+
+Their convictions will stand, although their sentences have been suspended..</p><hr>
+
+<figcaption><b><font color="purple"><center>Andy Murray beats David Goffin to reach the quarter-finals of the Shenzhen Open:</center></font></b></figcaption><hr>
+
+<p><img src="download(6).jpg" width="180px" image align="left">The 31-year-old Scot remains on course to regain the title his won in 2014 brushing off 70 per cent of break points faced and firing down 15 aces<br>Goffin entered the tournament as the number one seed and reigning champion but the Belgian, ranked 11th in the world, was dispatched in straight sets at an event Murray won four years ago.<br>t is the penultimate competition of the year for Murray, who has decided to play in the Shenzhen and China Opens before ending his season in order to work on improving the hip issue that has troubled his recent career.<br>There was little sign of discomfort as the world No 311 easily took the first set.</p><hr>
+
+</right>
+</body>
+</html>

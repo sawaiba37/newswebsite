@@ -1,0 +1,94 @@
+
+<html>
+<head>
+<title>web</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+</head>
+<body>
+<div class="container-fluid">
+  <div class="row">
+<div class="col-md-4">
+
+    </div>
+    <div class="col-md-4" align="center">
+      <image src="samaa.jpg" width="150px">
+
+    </div>
+    <div class="col-md-4" align="right">
+  <a href="fb.html">    <image src="fb.png" width="40px"> </a>
+   
+
+    <a href="insta.html">   <image src="insta.jpg" width="40px"> </a>
+  
+     <a href="twit.html">  <image src="twitter.png" width="40px"> </a>
+    
+   </div>
+  </div>
+<div class="row">
+  <div class="col-md-12">
+
+<div class="alert-primary">
+<ul class="nav justify-content-center">
+  <li class="nav-item">
+    <a class="nav-link active" href="homepage.html">| home |</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="program.html">program |</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="opinion.html">opinion |</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link disabled" href="sports.html">sports |</a>
+  </li>
+<li class="nav-item">
+    <a class="nav-link" href="new.html">news |</a>
+  </li>
+</ul>
+
+</div>
+</div>
+</div>
+  <div class="col-md-12">
+<center>
+<image src="tapal.png">
+</center>
+</div>
+<div class="row">
+<div class="col-md-4">
+<image src="robot.jpg" width="250px">
+</div>
+<div class="col-md-6">
+<p>As the calendar winds down to the end of another year, the robotics industry continues to gear up for the next one, with expectations that it will be even bigger, faster, and more innovative than the last. Robotics Business Review canvassed industry leaders across the robotics, automation, and artificial intelligence landscape to provide us with their 2019 predictions. We’ve organized their predictions and quotes into several topic areas.
+
+RBR editors Gene Demaitre and Keith Shaw will provide their own predictions in next week’s free webcast, “Looking Back, Looking Forward,” as well as another predictions article at the start of 2019. Stay tuned!</p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<div class="card text-center">
+  <div class="card-header">
+<div class="alert-success">
+    Featured
+  </div>
+</div>
+  <div class="card-body">
+<div class="alert-primary">
+    <h5 class="card-title">NEWS HD</h5>
+    <p class="card-text">With supporting saama news channel.</p>
+    <a href="#" class="btn btn-primary">subscribe</a>
+  </div>
+  <div class="card-footer text-muted">
+    
+  </div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+</body>
+</html>
